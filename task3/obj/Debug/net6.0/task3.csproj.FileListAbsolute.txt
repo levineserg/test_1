@@ -1,0 +1,15 @@
+G:\Мой диск\GB\C#\NEW\task3\bin\Debug\net6.0\task3.exe
+G:\Мой диск\GB\C#\NEW\task3\bin\Debug\net6.0\task3.deps.json
+G:\Мой диск\GB\C#\NEW\task3\bin\Debug\net6.0\task3.runtimeconfig.json
+G:\Мой диск\GB\C#\NEW\task3\bin\Debug\net6.0\task3.dll
+G:\Мой диск\GB\C#\NEW\task3\bin\Debug\net6.0\task3.pdb
+G:\Мой диск\GB\C#\NEW\task3\obj\Debug\net6.0\task3.csproj.AssemblyReference.cache
+G:\Мой диск\GB\C#\NEW\task3\obj\Debug\net6.0\task3.GeneratedMSBuildEditorConfig.editorconfig
+G:\Мой диск\GB\C#\NEW\task3\obj\Debug\net6.0\task3.AssemblyInfoInputs.cache
+G:\Мой диск\GB\C#\NEW\task3\obj\Debug\net6.0\task3.AssemblyInfo.cs
+G:\Мой диск\GB\C#\NEW\task3\obj\Debug\net6.0\task3.csproj.CoreCompileInputs.cache
+G:\Мой диск\GB\C#\NEW\task3\obj\Debug\net6.0\task3.dll
+G:\Мой диск\GB\C#\NEW\task3\obj\Debug\net6.0\refint\task3.dll
+G:\Мой диск\GB\C#\NEW\task3\obj\Debug\net6.0\task3.pdb
+G:\Мой диск\GB\C#\NEW\task3\obj\Debug\net6.0\task3.genruntimeconfig.cache
+G:\Мой диск\GB\C#\NEW\task3\obj\Debug\net6.0\ref\task3.dll

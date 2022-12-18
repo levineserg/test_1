@@ -1,0 +1,15 @@
+G:\Мой диск\GB\C#\NEW\task1\bin\Debug\net6.0\task1.exe
+G:\Мой диск\GB\C#\NEW\task1\bin\Debug\net6.0\task1.deps.json
+G:\Мой диск\GB\C#\NEW\task1\bin\Debug\net6.0\task1.runtimeconfig.json
+G:\Мой диск\GB\C#\NEW\task1\bin\Debug\net6.0\task1.dll
+G:\Мой диск\GB\C#\NEW\task1\bin\Debug\net6.0\task1.pdb
+G:\Мой диск\GB\C#\NEW\task1\obj\Debug\net6.0\task1.csproj.AssemblyReference.cache
+G:\Мой диск\GB\C#\NEW\task1\obj\Debug\net6.0\task1.GeneratedMSBuildEditorConfig.editorconfig
+G:\Мой диск\GB\C#\NEW\task1\obj\Debug\net6.0\task1.AssemblyInfoInputs.cache
+G:\Мой диск\GB\C#\NEW\task1\obj\Debug\net6.0\task1.AssemblyInfo.cs
+G:\Мой диск\GB\C#\NEW\task1\obj\Debug\net6.0\task1.csproj.CoreCompileInputs.cache
+G:\Мой диск\GB\C#\NEW\task1\obj\Debug\net6.0\task1.dll
+G:\Мой диск\GB\C#\NEW\task1\obj\Debug\net6.0\refint\task1.dll
+G:\Мой диск\GB\C#\NEW\task1\obj\Debug\net6.0\task1.pdb
+G:\Мой диск\GB\C#\NEW\task1\obj\Debug\net6.0\task1.genruntimeconfig.cache
+G:\Мой диск\GB\C#\NEW\task1\obj\Debug\net6.0\ref\task1.dll
