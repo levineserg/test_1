@@ -1,0 +1,15 @@
+G:\Мой диск\GB\C#\NEW\task9\obj\Debug\net6.0\task9.csproj.AssemblyReference.cache
+G:\Мой диск\GB\C#\NEW\task9\obj\Debug\net6.0\task9.GeneratedMSBuildEditorConfig.editorconfig
+G:\Мой диск\GB\C#\NEW\task9\obj\Debug\net6.0\task9.AssemblyInfoInputs.cache
+G:\Мой диск\GB\C#\NEW\task9\obj\Debug\net6.0\task9.AssemblyInfo.cs
+G:\Мой диск\GB\C#\NEW\task9\obj\Debug\net6.0\task9.csproj.CoreCompileInputs.cache
+G:\Мой диск\GB\C#\NEW\task9\bin\Debug\net6.0\task9.exe
+G:\Мой диск\GB\C#\NEW\task9\bin\Debug\net6.0\task9.deps.json
+G:\Мой диск\GB\C#\NEW\task9\bin\Debug\net6.0\task9.runtimeconfig.json
+G:\Мой диск\GB\C#\NEW\task9\bin\Debug\net6.0\task9.dll
+G:\Мой диск\GB\C#\NEW\task9\bin\Debug\net6.0\task9.pdb
+G:\Мой диск\GB\C#\NEW\task9\obj\Debug\net6.0\task9.dll
+G:\Мой диск\GB\C#\NEW\task9\obj\Debug\net6.0\refint\task9.dll
+G:\Мой диск\GB\C#\NEW\task9\obj\Debug\net6.0\task9.pdb
+G:\Мой диск\GB\C#\NEW\task9\obj\Debug\net6.0\task9.genruntimeconfig.cache
+G:\Мой диск\GB\C#\NEW\task9\obj\Debug\net6.0\ref\task9.dll
